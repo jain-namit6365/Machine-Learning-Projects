@@ -7,3 +7,4 @@ Projects
 1. Predicting CO2 emission of vehicles
 2. Cancer Prediction using Human Cell records
 3. Predicting Drug Prescription for patients having same disease
+4. Segmentation of Customers having similar characteristics
